@@ -41,6 +41,4 @@ if(Price1>100 && Price2>100){
     console.log('banana price is high')
 }
 
-
-
 console.log('Programm ended!!!');
