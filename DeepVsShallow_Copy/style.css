@@ -1,0 +1,36 @@
+
+@keyframes Animation {
+    100%{transform:translateX(2000px);background-color: blue;}
+    
+}
+
+
+
+
+
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+
+#road{
+    width:100%;
+    height:20vh;
+    border:1px solid black;
+    background-color: black;
+    
+}
+
+#car{
+    height:2em;
+    width:1em;
+    background-color: white;
+    animation-name:Animation;
+   
+    
+
+}
